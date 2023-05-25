@@ -1,5 +1,7 @@
 # PyData Madrid
 
+![PyData Madrid](pydata-madrid-meetup-main.png)
+
 Nos reunimos el tercer o cuarto jueves de cada mes para hablar de Python, Datos, Visualización, Inteligencia Artificial, ¡y lo que surja! Dos charlas y un poco de networking. ¡Únete!
 
 - 📣 Regístrate en Meetup para enterarte de las siguientes reuniones https://www.meetup.com/PyData-Madrid/
