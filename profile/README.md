@@ -1,6 +1,6 @@
 # PyData Madrid
 
-![PyData Madrid](pydata-madrid-meetup-main.png)
+![PyData Madrid](https://raw.githubusercontent.com/PyDataMadrid/.github/main/profile/pydata-madrid-meetup-main.png)
 
 Nos reunimos el tercer o cuarto jueves de cada mes para hablar de Python, Datos, Visualización, Inteligencia Artificial, ¡y lo que surja! Dos charlas y un poco de networking. ¡Únete!
 
